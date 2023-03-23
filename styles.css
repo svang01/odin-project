@@ -1,0 +1,235 @@
+.navbarOne {
+    background-color: #1f2937;
+}
+.containerOne {
+    display:flex;
+    justify-content: space-around;
+}
+.headerLogo {
+    font-family: arial;
+    font-size: 24px;
+    padding-top:10px;
+    color:#F9FAF8;
+    font-weight: bold;
+    padding-left:-106px;  
+}
+.links {
+    display:flex;
+    justify-content: space-around;   
+}
+.list {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 14px;
+    color: #F9FAF8;
+    font-family: arial;
+    font-weight: -5px;
+}
+.liList1 {
+    padding-right: 25px;
+}
+.liList2 {
+    padding-right: 25px;
+}
+.navbarTwo {
+    background-color: #1f2937;
+}
+.bigText {
+    font-size:42px;
+    color:#F9FAF8;
+    width: 440px;
+    font-family: arial;
+    padding-bottom: 100px;
+}
+.bText {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.smallText {
+    font-size: 18px;
+    color:#F9FAF8;
+    padding-top:-50px;
+}
+.containerTwo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 200px;
+    width: px;
+    padding-right: 200px;
+
+}
+.greyBox {
+    display: flex;
+    color: #F9FAF8;
+    background-color: grey;
+    width: 250px;
+    height: 190px;
+    padding-left: 190px;
+    padding-top: 50px;
+    margin-top: 50px;
+    
+}
+
+.navbarThree {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.containerFour {
+    background-color:#E5E7EB;
+    padding: 50px;
+
+}
+.quoteLong {
+    font-family: #1F2937;
+    font-size: 36px;
+}
+.placeHolder {
+    margin-top:50px;
+    margin-left: -75px;
+    font-family: arial;
+    padding-top:15px;
+}
+.button {
+    border: #3882F6;
+    background-color:#3882F6;
+    color:white;
+    font-size: 18px;
+    padding:7px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.titleThree {
+    font-family: arial;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+}
+.firstRow {
+    text-align: center;
+    font-family: arial;
+    padding-left:200px
+}
+.secondRow {
+    text-align: center;
+    font-family: arial;
+}
+.thirdRow {
+    text-align: center;
+    font-family: arial;
+}
+.fourthRow {
+    text-align: center;
+    font-family: arial;
+    padding-right: 200px;
+}
+.firstButton {
+    border: #3882F6;
+    border-style: solid;
+    padding: 85px;
+    border-radius: 10px;
+    background-color: white;
+}
+.secondButton {
+    border: #3882F6;
+    border-style: solid;
+    padding: 85px;
+    border-radius: 10px;
+    background-color: white;
+}
+.thirdButton {
+    border: #3882F6;
+    border-style: solid;
+    padding: 85px;
+    border-radius: 10px;
+    background-color: white;
+}
+.fourthButton {
+    border: #3882F6;
+    border-style: solid;
+    padding: 85px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+.quoteLong {
+    
+    text-align: left;
+    padding: 10px;
+    padding-left: 300px;
+    font-family: arial;
+    font-style: italic;
+}
+
+.quote {
+    text-align: right;
+    padding-right: 200px;
+    font-family: arial;
+    font-weight: 1000;
+}
+.containerFive {
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.call {
+    background-color: #3882F6;
+    padding-left: 250px;
+    padding-right:250px;
+    border-radius: 8px;
+
+}
+.textButton {
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    color:white;
+    border-radius: 4px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: 700;
+    border-style: solid;
+}
+.box {
+    display: flex;
+    border-style: solid;
+    background-color:#3882F6;
+    color:#F9FAF8;
+    border-radius: 10px;
+    padding-left: 200px;
+    padding-right: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.copyRight {
+    border: solid 1px;
+    background-color:#1F2937;
+    color:white;
+    font-family: arial;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+
+}
+.firstText {
+    margin-top: 50px;
+    margin-bottom: -30px;
+    color:#E5E7EB;
+    font-family: arial;
+    font-weight: bold;
+}
+.secondText {
+    margin-bottom: 50px;
+    color:#E5E7EB;
+    font-family: arial;
+}
